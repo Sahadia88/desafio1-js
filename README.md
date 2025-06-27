@@ -3,6 +3,9 @@
 
 Este proyecto consiste en una **tarjeta de producto interactiva** para una tienda online. El usuario puede aumentar o disminuir la cantidad de productos, y se calcula automáticamente el total a pagar en base al **precio del producto**.
 
+**Deploy**
+https://sahadia88.github.io/desafio1-js/
+
 
 ## 🧠 Aprendizajes aplicados
 
